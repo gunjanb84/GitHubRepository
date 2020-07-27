@@ -1,3 +1,4 @@
 Hello world
 the second line in hello.txt
 Adding another line from master to check difference
+checking diff
